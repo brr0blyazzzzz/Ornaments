@@ -1,0 +1,4 @@
+GET http://ornaments.local/api/Motive/delete/21 HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 16|sCyKh8E94OsLDAV9FhPZFjYBfMotvjQSeTdY4vaD

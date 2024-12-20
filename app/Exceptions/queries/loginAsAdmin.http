@@ -1,0 +1,5 @@
+POST http://ornaments.local/sanctum/token HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{"email":"brr0blyazzzzz@gmail.com","password":"1234","device_name":"OrnamentPhone"}

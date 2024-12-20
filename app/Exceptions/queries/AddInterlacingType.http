@@ -1,0 +1,8 @@
+PUT http://ornaments.local/api/InterlacingType/add HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 13|aDn7COkHfEE00y4HoXadlb4QDCxzbj565Lq7DA68
+
+{  
+    "interlacing_title":"Новый тип переплетения"
+}

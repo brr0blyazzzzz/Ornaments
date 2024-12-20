@@ -1,0 +1,9 @@
+PUT http://ornaments.local/api/SymbolType/edit HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 15|HhiupOGLgE1uJcpjqUdvXbbYvQ4IL7S2OSpj6nYC
+
+{
+    "id": 2,
+    "symbol_title":"Измененный"
+}

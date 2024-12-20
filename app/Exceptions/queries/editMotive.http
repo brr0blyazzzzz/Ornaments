@@ -1,0 +1,17 @@
+PUT http://ornaments.local/api/Motive/edit HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 16|sCyKh8E94OsLDAV9FhPZFjYBfMotvjQSeTdY4vaD
+
+{
+    "id": 13,
+    "motive_title": "Новый мотив,обновленный ",
+    "motive_source": "БГУ имени Доржи Банзарова",
+    "motive_nation_id": 1,
+    "motive_type_id": 1,
+    "motive_interlacing_id": 1,
+    "motive_symbol_id": 1,
+    "motive_date": "Не определена",
+    "motive_notes":"Этот мотив был обновлен с помощью функции",
+    "motive_img":"neweditmotive.jpeg"
+}

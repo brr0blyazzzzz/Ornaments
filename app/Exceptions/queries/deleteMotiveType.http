@@ -1,0 +1,9 @@
+POST http://ornaments.local/api/MotiveInterlacing/delete HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 9|hIO6ElpohIFVG2vtas7aomlLxhxjV81dtkjEJclz
+
+{
+  "motive_id": 6,
+  "interlacing_id": 1
+}

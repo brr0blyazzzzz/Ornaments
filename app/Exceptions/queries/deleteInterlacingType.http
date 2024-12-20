@@ -1,0 +1,4 @@
+GET http://ornaments.local/api/Type/delete/2 HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 10|719Qcyq4pHKbmJ6DwQReHn1DEgznpmZfPvXR129M

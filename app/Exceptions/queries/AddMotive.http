@@ -1,0 +1,16 @@
+PUT http://ornaments.local/api/Motive/add HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 13|aDn7COkHfEE00y4HoXadlb4QDCxzbj565Lq7DA68
+
+{
+    "motive_title": "Новый мотив",
+    "motive_source": "БГУ имени Доржи Банзарова",
+    "motive_nation_id": 1,
+    "motive_type_id": 1,
+    "motive_interlacing_id": 1,
+    "motive_symbol_id": 1,
+    "motive_date": "Не определена",
+    "motive_notes":"Этот мотив был добавлен с помощью функции",
+    "motive_img":"newmotive.jpeg"
+}
